@@ -15,10 +15,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ## 👨‍💻 Equipe de Desenvolvimento
 
-* **Geverson Souza** - [Geverson Souza](https://www.linkedin.com/in/srgeverson/)
+* **Geverson Souza** - [LinkedIn](https://www.linkedin.com/in/srgeverson/)
 ## ✒️ Autor
 
-* **Geverson Souza** - [Geverson Souza](https://www.linkedin.com/in/srgeverson/)
+* **Geverson Souza** - [LinkedIn](https://www.linkedin.com/in/srgeverson/)
 
 ## 📌 Versão 0.0.1
 
