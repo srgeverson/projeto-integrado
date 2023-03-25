@@ -4,39 +4,14 @@ Este repositório é utilizado para guardar e versionar o relatório técnico e 
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Microsoft Office](https://www.microsoft.com/pt-br/microsoft-365) ou (LibreOffice)[https://www.libreoffice.org/]  e [Git](https://git-scm.com). 
+[Microsoft Office](https://www.microsoft.com/pt-br/microsoft-365) ou [LibreOffice](https://www.libreoffice.org/)  e [Git](https://git-scm.com). 
 
-## 🔧 Bibliotecas utilizadas
+## 🎲 Documentos Desenvolvidos
 
-* **[Relatório Técnico](https://github.com/srgeverson/projeto-integrado)**
+* **[Relatório Técnico](https://github.com/srgeverson/projeto-integrado/blob/main/RT_ProjetoIntegrado.docx)**
 
-
-## 🛠️ Configurando o ambiente
-
-```bash
-
-# 
-$ 
-
-```
-
-## 🎲 Executando projeto
-
-```bash
-
-# 
-$ 
-
-```
-
-## 📃 Backup/Restore de dados
-
-```bash
-
-# 
-$ 
-
-```
+## 📃 Documentos Referênciados
+* **[]()**
 
 ## 👨‍💻 Equipe de Desenvolvimento
 
