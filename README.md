@@ -16,7 +16,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ## 👨‍💻 Equipe de Desenvolvimento
 
 * **Geverson Souza** - [Geverson Souza](https://www.linkedin.com/in/srgeverson/)
-## ✒️ Autores
+## ✒️ Autor
 
 * **Geverson Souza** - [Geverson Souza](https://www.linkedin.com/in/srgeverson/)
 
