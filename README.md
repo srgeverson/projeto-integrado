@@ -10,8 +10,22 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 * **[Relatório Técnico](https://github.com/srgeverson/projeto-integrado/blob/main/RT_ProjetoIntegrado.docx)**
 
+* **[Diragrama de Classe](https://github.com/srgeverson/projeto-integrado/blob/main/docs/SysSite_UML.png)**
+
+* **[Diragrama de Entidade Relecionamento](https://github.com/srgeverson/projeto-integrado/blob/main/docs/SysSite_MER.png)**
+
 ## 📃 Documentos Referênciados
-* **[]()**
+* **Diagrama de Clsse - UML**
+
+<p align="center">
+    <img src="./docs/SysSite_UML.png"/>
+</p>
+
+* **Diagrama de Entidade Relacionamento - MER**
+
+<p align="center">
+    <img src="./docs/SysSite_MER.png"/>
+</p>
 
 ## 👨‍💻 Equipe de Desenvolvimento
 

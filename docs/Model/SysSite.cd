@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="api_csharp.Authority">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAACAgABAAAAAAAgAA=</HashCode>
+      <FileName>Docs\Authority.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="api_csharp.Contact">
+    <Position X="7.75" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AADAAACAAAAAQAAAAAAAAAAAAAEEAMAAAgAAAAgAAQE=</HashCode>
+      <FileName>Docs\Contact.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="api_csharp.Content">
+    <Position X="8.25" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAEgAIAIAAAAAACAAAAAAAAAACARg=</HashCode>
+      <FileName>Docs\Content.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="api_csharp.Endereco">
+    <Position X="3.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACACAAAEAAAAAEAAAAAAACAAAAAAAAABAABAAAAAYA=</HashCode>
+      <FileName>Docs\Endereco.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="api_csharp.Estado">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAABIAAAgAAAQA=</HashCode>
+      <FileName>Docs\Estado.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="pais" />
+      <Property Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="api_csharp.FolhaPagamento">
+    <Position X="10.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEQCAAgAAAEBAAAAAAAAAAAABAAQA=</HashCode>
+      <FileName>Docs\FolhaPagamento.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="api_csharp.Funcionario">
+    <Position X="6.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAIAAAAAAAAAAgABAAAQAAAAAgQgAAAAQI=</HashCode>
+      <FileName>Docs\Funcionario.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="api_csharp.FuncionarioUser">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAQCAAQA=</HashCode>
+      <FileName>Docs\FuncionarioUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="api_csharp.Page">
+    <Position X="12.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAIAAAAAAACAAAAAAAAAAAAAABAIACQA=</HashCode>
+      <FileName>Docs\Page.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="api_csharp.Pais">
+    <Position X="12.25" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAgAAAAAAAAAAAAAgAAAAAAAAAAAQQ=</HashCode>
+      <FileName>Docs\Pais.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="api_csharp.Parameter">
+    <Position X="1.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAgAAAAAAAAAAIAAAAAAAAAAAAAAACAASA=</HashCode>
+      <FileName>Docs\Parameter.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="api_csharp.User">
+    <Position X="3" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAQAEAAAgAgAAAQAAABAAgAAAAA=</HashCode>
+      <FileName>Docs\User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="authority" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
