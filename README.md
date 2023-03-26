@@ -13,7 +13,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ## 📃 Documentos Referênciados
 * **[]()**
 <p align="center">
-    <img src="./docs/SysSite"/>
+    <img src="./docs/SysSite.png"/>
 </p>
 ## 👨‍💻 Equipe de Desenvolvimento
 
