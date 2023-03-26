@@ -16,6 +16,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 <p align="center">
     <img src="./docs/SysSite_UML.png"/>
 </p>
+
 * **Diagrama de Entidade Relacionamento - MER**
 
 <p align="center">
