@@ -11,10 +11,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 * **[Relatório Técnico](https://github.com/srgeverson/projeto-integrado/blob/main/RT_ProjetoIntegrado.docx)**
 
 ## 📃 Documentos Referênciados
-* **[]()**
+* **[Diagrama de Clsse]()**
+
 <p align="center">
     <img src="./docs/SysSite.png"/>
 </p>
+
 ## 👨‍💻 Equipe de Desenvolvimento
 
 * **Geverson Souza** - [Geverson Souza](https://www.linkedin.com/in/srgeverson/)
