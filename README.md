@@ -11,10 +11,15 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 * **[Relatório Técnico](https://github.com/srgeverson/projeto-integrado/blob/main/RT_ProjetoIntegrado.docx)**
 
 ## 📃 Documentos Referênciados
-* **Diagrama de Clsse**
+* **Diagrama de Clsse - UML**
 
 <p align="center">
-    <img src="./docs/SysSite.png"/>
+    <img src="./docs/SysSite_UML.png"/>
+</p>
+* **Diagrama de Entidade Relacionamento - MER**
+
+<p align="center">
+    <img src="./docs/SysSite_MER.png"/>
 </p>
 
 ## 👨‍💻 Equipe de Desenvolvimento
