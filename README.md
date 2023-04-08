@@ -17,14 +17,19 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 * **[Diagrama de Caso de Uso](https://github.com/srgeverson/projeto-integrado/blob/main/docs/Diagrama_Caso_De_Uso.png)**
 
 ## 📃 Documentos Referênciados
+
 * **Diagrama de Clsse - UML**
 
 <p align="center">
     <img src="./docs/SysSite_UML.png"/>
 </p>
-<p> alingn="center">
-<iframe src="https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf" width="600" height="780" style="border: none;"></iframe>
+
+* **Prótotipo**
+
+<p alingn="center">
+    <iframe src="https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf" width="600" height="780" style="border: none;"></iframe>
 </p>
+
 * **Diagrama de Entidade Relacionamento - MER**
 
 <p align="center">
