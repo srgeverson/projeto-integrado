@@ -17,6 +17,13 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 * **[Diagrama de Caso de Uso](https://github.com/srgeverson/projeto-integrado/blob/main/docs/Diagrama_Caso_De_Uso.png)**
 
 ## 📃 Documentos Referênciados
+
+* **Diagrama de Caso de Uso**
+
+<p align="center">
+    <img src="./docs/Diagrama_Caso_De_Uso.png"/>
+</p>
+
 * **Diagrama de Clsse - UML**
 
 <p align="center">
@@ -29,11 +36,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
     <img src="./docs/SysSite_MER.png"/>
 </p>
 
-* **Diagrama de Caso de Uso**
-
-<p align="center">
-    <img src="./docs/Diagrama_Caso_De_Uso.png"/>
-</p>
 
 ## 👨‍💻 Equipe de Desenvolvimento
 
