@@ -14,6 +14,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 * **[Diragrama de Entidade Relecionamento](https://github.com/srgeverson/projeto-integrado/blob/main/docs/SysSite_MER.png)**
 
+* **[Diagrama de Caso de Uso](https://github.com/srgeverson/projeto-integrado/blob/main/docs/Diagrama_Caso_De_Uso.png)**
+
 ## 📃 Documentos Referênciados
 * **Diagrama de Clsse - UML**
 
@@ -25,6 +27,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 <p align="center">
     <img src="./docs/SysSite_MER.png"/>
+</p>
+
+* **Diagrama de Caso de Uso**
+
+<p align="center">
+    <img src="./docs/Diagrama_Caso_De_Uso.png"/>
 </p>
 
 ## 👨‍💻 Equipe de Desenvolvimento
