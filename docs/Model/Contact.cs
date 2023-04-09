@@ -1,4 +1,4 @@
-namespace api_csharp
+namespace Docs
 {
     public class Contact
     {
@@ -13,6 +13,6 @@ namespace api_csharp
         public String cont_twitter { get; set; }
         public Boolean cont_status { get; set; }
         public String cont_text { get; set; }
-        public User user { get; set; }
+        public User usuario { get; set; }
     }
 }

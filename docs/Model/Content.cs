@@ -1,4 +1,4 @@
-namespace api_csharp
+namespace Docs
 {
     public class Content
     {
@@ -6,11 +6,11 @@ namespace api_csharp
         public String conte_component {get; set;}
         public String conte_title {get; set;}
         public String conte_subtitle {get; set;}
-        public text conte_text {get; set;}
+        public String conte_text {get; set;}
         public String conte_image {get; set;}
         public String conte_link {get; set;}
         public Boolean conte_status {get; set;}
         public Page page {get; set;}
-        public User user {get; set;}
+        public User usuario {get; set;}
     }
 }
