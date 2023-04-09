@@ -20,13 +20,19 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ## 📃 Documentos Referênciados
 
+* **Diagrama de Caso de Uso**
+
+<p align="center">
+    <img src="./docs/Diagrama_Caso_De_Uso.png"/>
+</p>
+
+* **[Prótotipo](https://www.figma.com/proto/22CAEZAgZxVe2JAAs3sbap/SysSite?node-id=13-69&scaling=contain&page-id=13%3A68&starting-point-node-id=13%3A69)**
+
 * **Diagrama de Clsse - UML**
 
 <p align="center">
     <img src="./docs/SysSite_UML.png"/>
 </p>
-
-* **[Prótotipo](https://www.figma.com/proto/22CAEZAgZxVe2JAAs3sbap/SysSite?node-id=13-69&scaling=contain&page-id=13%3A68&starting-point-node-id=13%3A69)**
 
 * **Diagrama de Entidade Relacionamento - MER**
 
