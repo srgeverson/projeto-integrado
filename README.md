@@ -16,6 +16,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 * **[Diragrama de Classe](https://github.com/srgeverson/projeto-integrado/blob/main/docs/SysSite_UML.png)**
 
+* **[Diragrama de Contexto](https://github.com/srgeverson/projeto-integrado/blob/main/docs/SysSite_Diagrama_De_Contexto.png)**
+
 * **[Diragrama de Entidade Relecionamento](https://github.com/srgeverson/projeto-integrado/blob/main/docs/SysSite_MER.png)**
 
 ## 📃 Documentos Referênciados
@@ -32,6 +34,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 <p align="center">
     <img src="./docs/SysSite_UML.png"/>
+</p>
+
+* **Diagrama de Contexto**
+
+<p align="center">
+    <img src="./docs/SysSite_Diagrama_De_Contexto.png"/>
 </p>
 
 * **Diagrama de Entidade Relacionamento - MER**
