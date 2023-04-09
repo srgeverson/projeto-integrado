@@ -27,7 +27,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 * **Prótotipo**
 
 <p alingn="center">
-    <iframe src="https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf" width="600" height="780" style="border: none;"></iframe>
+    <iframe src="https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf"></iframe>
 </p>
 
 * **Diagrama de Entidade Relacionamento - MER**
