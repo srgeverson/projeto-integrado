@@ -1,4 +1,4 @@
-namespace api_csharp
+namespace Docs
 {
     public class Funcionario
     {
@@ -9,7 +9,7 @@ namespace api_csharp
         public String func_pis { get; set; }
         public DateTime func_data_nascimento { get; set; }
         public Boolean func_status { get; set; }
-        public User user { get; set; }
+        public User usuario { get; set; }
         public Endereco endereco { get; set; }
         public Contact contact { get; set; }
     }

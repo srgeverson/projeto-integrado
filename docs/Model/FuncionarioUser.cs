@@ -1,4 +1,4 @@
-namespace api_csharp
+namespace Docs
 {
     public class FuncionarioUser
     {

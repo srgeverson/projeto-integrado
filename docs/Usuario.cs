@@ -1,4 +1,4 @@
-﻿namespace api_csharp
+﻿namespace Docs
 {
     internal class Usuario
     {

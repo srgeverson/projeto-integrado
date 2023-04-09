@@ -1,11 +1,12 @@
-namespace api_csharp
+namespace Docs
 {
     public class Authority
     {
-        private long auth_pk_id {get; set;}
-        private String auth_description {get; set;}
-        private  Boolean auth_status {get; set;}
-        private String auth_screen {get; set;}
-        private String auth_function {get; set;}
+        public  long auth_pk_id {get; set;}
+        public  String auth_description {get; set;}
+        public   Boolean auth_status {get; set;}
+        public  String auth_screen {get; set;}
+        public  String auth_function {get; set;}
+        public  User usuario {get; set; }
     }
 }
