@@ -24,11 +24,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
     <img src="./docs/SysSite_UML.png"/>
 </p>
 
-* **Prótotipo**
-
-<p alingn="center">
-    <iframe src="https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf"></iframe>
-</p>
+* **[Prótotipo](https://www.figma.com/proto/22CAEZAgZxVe2JAAs3sbap/SysSite?node-id=13-69&scaling=contain&page-id=13%3A68&starting-point-node-id=13%3A69)**
 
 * **Diagrama de Entidade Relacionamento - MER**
 
