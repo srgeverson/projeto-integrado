@@ -7,6 +7,6 @@ namespace Docs
         private string nome {get; set;}
         private Estado estado {get; set;}
         private  Boolean status {get; set;}
-        private User usuario {get; set;}
+        private Usuario usuario {get; set;}
     }
 }

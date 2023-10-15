@@ -6,6 +6,6 @@ namespace Docs
       public  String nome {get;set;}
       public  String sigla {get;set;}
       public  Boolean status {get;set;}
-      public  User usuario {get;set;}
+      public  Usuario usuario {get;set;}
     }
 }

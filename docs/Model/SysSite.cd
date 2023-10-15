@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Docs.Authority">
+  <Class Name="Docs.Permissao">
     <Position X="0.5" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAACAwABAAAAAAAgAA=</HashCode>
@@ -10,29 +10,29 @@
       <Property Name="usuario" />
     </ShowAsAssociation>
   </Class>
-  <Class Name="Docs.Contact">
-    <Position X="7.75" Y="2.5" Width="1.5" />
+  <Class Name="Docs.Contato">
+    <Position X="9.75" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AADAAACAAAAAQAAAAAAAAAAAAAEEAMQAAgAAAAgAAAE=</HashCode>
+      <HashCode>GgQAAAAAAAAAAIAgAQABAAAAIAAAAAQAAAAAAAAAQgA=</HashCode>
       <FileName>Model\Contact.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
       <Property Name="usuario" />
     </ShowAsAssociation>
   </Class>
-  <Class Name="Docs.Content">
-    <Position X="10" Y="2.75" Width="1.75" />
+  <Class Name="Docs.Conteudo">
+    <Position X="9.25" Y="6" Width="1.75" />
     <TypeIdentifier>
-      <HashCode>AAAAAgAAAAAAAAAAEgAIAIAAAAAACAQAAAAAAAACABg=</HashCode>
+      <HashCode>AAQAAAAAQAAAAAAAEEAAAEAAEAAAAAQIAAAAAAAAQEA=</HashCode>
       <FileName>Model\Content.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
-      <Property Name="usuario" />
       <Property Name="page" />
+      <Property Name="usuario" />
     </ShowAsAssociation>
   </Class>
   <Class Name="Docs.Endereco">
-    <Position X="13.5" Y="4.75" Width="1.5" />
+    <Position X="5.25" Y="6" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAgAAAAAAAAAAAACBAAAAAAAgAAAAAEAAAAAAwA=</HashCode>
       <FileName>Model\Endereco.cs</FileName>
@@ -41,30 +41,19 @@
       <Property Name="user" />
     </ShowAsAssociation>
   </Class>
-  <Class Name="Docs.Estado">
-    <Position X="0.5" Y="4.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AQQAAAAAAAAAAAAEAAAAAAAAAAAAAAQIAAAAAAAAAgA=</HashCode>
-      <FileName>Model\Estado.cs</FileName>
-    </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="usuario" />
-      <Property Name="pais" />
-    </ShowAsAssociation>
-  </Class>
   <Class Name="Docs.FolhaPagamento">
-    <Position X="9" Y="14.75" Width="2" />
+    <Position X="3" Y="6.25" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAEQCAAgAAAEBAAAAAAAAAAAABAAQA=</HashCode>
       <FileName>Model\FolhaPagamento.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
-      <Property Name="user" />
       <Property Name="funcionario" />
+      <Property Name="user" />
     </ShowAsAssociation>
   </Class>
   <Class Name="Docs.Funcionario">
-    <Position X="0.5" Y="8.75" Width="2" />
+    <Position X="0.5" Y="6.5" Width="2" />
     <TypeIdentifier>
       <HashCode>AQAAAAAAAAAIAAAAAAAAAAgABAAAQAQAAAgQgAAAAAI=</HashCode>
       <FileName>Model\Funcionario.cs</FileName>
@@ -75,77 +64,35 @@
       <Property Name="contact" />
     </ShowAsAssociation>
   </Class>
-  <Class Name="Docs.FuncionarioUser">
-    <Position X="13.75" Y="11.25" Width="1.5" />
+  <Class Name="Docs.Pagina">
+    <Position X="7.25" Y="6" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAQCAAQA=</HashCode>
-      <FileName>Model\FuncionarioUser.cs</FileName>
-    </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="user" />
-      <Property Name="funcionario" />
-    </ShowAsAssociation>
-  </Class>
-  <Class Name="Docs.Page">
-    <Position X="7.5" Y="7" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAEAIAAAAAAACAAAAAAAAAAAAAABAIACQA=</HashCode>
+      <HashCode>AQQAAAAAAAAAABAAAQAAAAAAAAAAAAYAAAAAAAAAAgA=</HashCode>
       <FileName>Model\Page.cs</FileName>
-    </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="user" />
-    </ShowAsAssociation>
-  </Class>
-  <Class Name="Docs.Pais">
-    <Position X="0.5" Y="6.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AQQAAAAAAAAAAAAAAAAAAAAAAAAAAAQIAAAAAAAAAgA=</HashCode>
-      <FileName>Model\Pais.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
       <Property Name="usuario" />
     </ShowAsAssociation>
   </Class>
-  <Class Name="Docs.Parameter">
-    <Position X="0.75" Y="14" Width="1.5" />
+  <Class Name="Docs.Parametro">
+    <Position X="8" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAEAgAAAAAAAAAAIAAAAAAAAAAAAAAACAASA=</HashCode>
+      <HashCode>AAQAAAAAAAAAAAAAAQAAAAAAAAAABAAAAAAAAAABAwA=</HashCode>
       <FileName>Model\Parameter.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
       <Property Name="user" />
     </ShowAsAssociation>
   </Class>
-  <Class Name="Docs.User">
-    <Position X="5" Y="5" Width="1.5" />
+  <Class Name="Docs.Usuario">
+    <Position X="6" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQQAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAgAAEgA=</HashCode>
       <FileName>Model\User.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Docs.Cidade">
-    <Position X="2.75" Y="2.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AQQBCAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAgA=</HashCode>
-      <FileName>Model\Cidade.cs</FileName>
-    </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="usuario" />
-      <Property Name="estado" />
-    </ShowAsAssociation>
-  </Class>
-  <Class Name="Docs.Model.Log">
-    <Position X="2.75" Y="14" Width="1.75" />
-    <TypeIdentifier>
-      <HashCode>AAAAQACAAgAAIAAAAIAAAIAAAAAAAAQAAAAAAAEAAAA=</HashCode>
-      <FileName>Model\Log.cs</FileName>
-    </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="usuario" />
-    </ShowAsAssociation>
-  </Class>
   <Class Name="Docs.Model.GrupoPermissao">
-    <Position X="3.25" Y="9.5" Width="1.5" />
+    <Position X="0.5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAIEAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
       <FileName>Model\GrupoPermissao.cs</FileName>
@@ -157,44 +104,14 @@
     </ShowAsAssociation>
   </Class>
   <Class Name="Docs.Model.Grupo">
-    <Position X="7.25" Y="9.75" Width="1.5" />
+    <Position X="4.5" Y="1.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQQCAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
       <FileName>Model\Grupo.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Docs.Model.MenuItem">
-    <Position X="14.75" Y="7.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AQQAAAAAAAAAAgAAAQAQAAgAEAAIAAYAAAAAEAAAAgA=</HashCode>
-      <FileName>Model\MenuItem.cs</FileName>
-    </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="usuario" />
-      <Property Name="menuItem" />
-      <Property Name="menu" />
-    </ShowAsAssociation>
-  </Class>
-  <Class Name="Docs.Model.Menu">
-    <Position X="11.25" Y="8.25" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AQQAAAAAAAAAAgAAAQAAAAAAEQAIAAYAAAAAAAAAAgA=</HashCode>
-      <FileName>Model\Menu.cs</FileName>
-    </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="usuario" />
-      <Property Name="sistema" />
-    </ShowAsAssociation>
-  </Class>
-  <Class Name="Docs.Model.Sistema">
-    <Position X="6.5" Y="12.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AQQCAAAAAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
-      <FileName>Model\Sistema.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="Docs.Model.UsuarioGrupo">
-    <Position X="1" Y="12" Width="1.5" />
+    <Position X="2.25" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAEAAAAABAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
       <FileName>Model\UsuarioGrupo.cs</FileName>

@@ -1,16 +1,16 @@
 namespace Docs
 {
-    public class Content
+    public class Conteudo
     {
-        public long conte_pk_id {get; set;}
-        public String conte_component {get; set;}
-        public String conte_title {get; set;}
-        public String conte_subtitle {get; set;}
-        public String conte_text {get; set;}
-        public String conte_image {get; set;}
-        public String conte_link {get; set;}
-        public Boolean conte_status {get; set;}
-        public Page page {get; set;}
-        public User usuario {get; set;}
+        public long pk_id {get; set;}
+        public String component {get; set;}
+        public String title {get; set;}
+        public String subtitle {get; set;}
+        public String text {get; set;}
+        public String image {get; set;}
+        public String link {get; set;}
+        public Boolean status {get; set;}
+        public Pagina page {get; set;}
+        public Usuario usuario {get; set;}
     }
 }
