@@ -1,18 +1,18 @@
 namespace Docs
 {
-    public class Contact
+    public class Contato
     {
-        public long cont_pk_id { get; set; }
-        public String cont_description { get; set; }
-        public String cont_phone { get; set; }
-        public String cont_cell_phone { get; set; }
-        public String cont_whatsapp { get; set; }
-        public String cont_email { get; set; }
-        public String cont_facebook { get; set; }
-        public String cont_instagram { get; set; }
-        public String cont_twitter { get; set; }
-        public Boolean cont_status { get; set; }
-        public String cont_text { get; set; }
-        public User usuario { get; set; }
+        public long id { get; set; }
+        public String descricao { get; set; }
+        public String telefone { get; set; }
+        public String celular { get; set; }
+        public String whatsapp { get; set; }
+        public String email { get; set; }
+        public String facebook { get; set; }
+        public String instagram { get; set; }
+        public String twitter { get; set; }
+        public Boolean status { get; set; }
+        public String texto { get; set; }
+        public Usuario usuario { get; set; }
     }
 }

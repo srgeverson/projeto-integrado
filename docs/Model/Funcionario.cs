@@ -9,8 +9,8 @@ namespace Docs
         public String func_pis { get; set; }
         public DateTime func_data_nascimento { get; set; }
         public Boolean func_status { get; set; }
-        public User usuario { get; set; }
+        public Usuario usuario { get; set; }
         public Endereco endereco { get; set; }
-        public Contact contact { get; set; }
+        public Contato contact { get; set; }
     }
 }

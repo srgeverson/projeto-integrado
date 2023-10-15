@@ -1,13 +1,13 @@
 namespace Docs
 {
-    public class Page
+    public class Pagina
     {
-        public long page_pk_id { get; set; }
-        public String page_name { get; set; }
-        public String page_description { get; set; }
-        public String page_icon { get; set; }
-        public String page_label { get; set; }
-        public Boolean page_status { get; set; }
-        public User user { get; set; }
+        public long id { get; set; }
+        public String nome{ get; set; }
+        public String descricao{ get; set; }
+        public String icone { get; set; }
+        public String label { get; set; }
+        public Boolean status { get; set; }
+        public Usuario usuario { get; set; }
     }
 }

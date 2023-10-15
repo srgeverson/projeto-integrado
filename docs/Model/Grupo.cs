@@ -7,6 +7,6 @@ namespace Docs.Model
         public long Id { get; set; }
         public String nome { get; set; }
         public Boolean status { get; set; }
-        public User usuario { get; set; }
+        public Usuario usuario { get; set; }
     }
 }
