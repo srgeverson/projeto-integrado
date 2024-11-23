@@ -6,6 +6,6 @@
         public String nome { get; set; }
         public String descricao { get; set; }
         public Boolean status { get; set; }
-        public Usuario usuario { get; set; }
+        public User usuario { get; set; }
     }
 }

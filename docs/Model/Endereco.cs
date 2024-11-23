@@ -9,6 +9,6 @@ namespace Docs
         public String cep { get; set; }
         public Boolean status { get; set; }
         public Cidade cidade { get; set; }
-        public Usuario user { get; set; }
+        public User user { get; set; }
     }
 }

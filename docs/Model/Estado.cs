@@ -7,6 +7,6 @@ namespace Docs
         public String sigla { get; set; }
         public Boolean status { get; set; }
         public Pais pais { get; set; }
-        public Usuario usuario { get; set; }
+        public User usuario { get; set; }
     }
 }
