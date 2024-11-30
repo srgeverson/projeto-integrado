@@ -10,6 +10,6 @@ namespace Docs
       public  Byte[] fopa_arquivo {get; set;}
       public  Boolean fopa_status {get; set;}
       public  Funcionario funcionario {get; set;}
-      public  Usuario user {get; set;}
+      public  User user {get; set;}
     }
 }

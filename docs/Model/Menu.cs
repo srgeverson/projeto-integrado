@@ -11,6 +11,6 @@
         public string image { get; set; }
         public string icone { get; set; }
         public Sistema sistema { get; set; }
-        public Usuario usuario { get; set; }
+        public User usuario { get; set; }
     }
 }

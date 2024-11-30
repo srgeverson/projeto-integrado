@@ -13,6 +13,6 @@
         public string icone { get; set; }
         public MenuItem menuItem { get; set; }
         public Menu menu { get; set; }
-        public Usuario usuario { get; set; }
+        public User usuario { get; set; }
     }
 }

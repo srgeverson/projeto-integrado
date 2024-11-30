@@ -1,6 +1,6 @@
 namespace Docs
 {
-    public class Usuario
+    public class User
     {
       public  long id {get;set;}
       public  String nome {get;set;}
